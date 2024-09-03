@@ -1,4 +1,4 @@
-!pip install streamlit opencv-python-headless pyzbar numpy pillow
+pip install streamlit opencv-python-headless pyzbar numpy pillow
 import streamlit as st
 import os
 import cv2
